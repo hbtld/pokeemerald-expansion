@@ -97,13 +97,15 @@ Route102_Text_ImNotVeryTall:
 	.string "Fwatchoo!$"
 
 Route102_Text_CatchWholeBunchOfPokemon:
-	.string "I'm going to catch a whole bunch of\n"
-	.string "POKéMON!$"
+	.string "They say the eclipse began\n"
+	.string "at the old observatory.\p"
+	.string "A scout called SHADE watches\n"
+	.string "this path. Be careful!$"
 
 Route102_Text_RouteSignOldale:
-	.string "ROUTE 102\n"
-	.string "{RIGHT_ARROW} OLDALE TOWN$"
+	.string "UMBRAL TRAIL\n"
+	.string "{RIGHT_ARROW} OLD DAWN OUTPOST$"
 
 Route102_Text_RouteSignPetalburg:
-	.string "ROUTE 102\n"
-	.string "{LEFT_ARROW} PETALBURG CITY$"
+	.string "UMBRAL TRAIL\n"
+	.string "{LEFT_ARROW} WESTERN GATE$"
