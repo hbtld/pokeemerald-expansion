@@ -47,15 +47,15 @@ Route102_Text_AllenPostBattle:
 	.string "I wish I would win soon…$"
 
 Route102_Text_RickIntro:
-	.string "Hahah! Our eyes met!\n"
-	.string "I'll take you on with my BUG POKéMON!$"
+	.string "SHADE: The eclipse chose me!\n"
+	.string "Can your partner face the dark?$"
 
 Route102_Text_RickDefeated:
-	.string "Ow! Down and out!$"
+	.string "SHADE: The shadows...lost?$"
 
 Route102_Text_RickPostBattle:
-	.string "If you lock eyes with a TRAINER,\n"
-	.string "you have to challenge! It's a rule!$"
+	.string "SHADE: You won't stop the\n"
+	.string "FALLEN ECLIPSE that easily!$"
 
 Route102_Text_TianaIntro:
 	.string "I'm going to keep winning and aim\n"
